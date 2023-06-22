@@ -1,0 +1,301 @@
+store_id,StoreType,Region,Channel,ACV
+289,Small Grocery,Ajman,Grocery,574.7369182
+811,Small Grocery,Abu Dhabi,Grocery,180.5860747
+626,Small Grocery,Umm Al Quwain,Grocery,590.2198654
+534,Convenience Store,Abu Dhabi,Mini/Self,676.7009586
+971,Small Grocery,Ras Al Khaimah,Grocery,793.5985408
+264,Small Grocery,Dubai,Grocery,670.4443299
+580,Hypermarket,Ajman,Hyper/Super,102.8915571
+951,Pharmacy,Ajman,Pharmacies,909.7611293
+426,Supermarket,Ajman,Hyper/Super,800.7914773
+203,Restaurant,Dubai,Horeca,593.70274
+730,Small Grocery,Dubai,Grocery,980.9516469
+237,Pharmacy,Fujairah,Pharmacies,837.30297
+366,large Grocery,Fujairah,Grocery,232.4366178
+943,large Grocery,Dubai,Grocery,779.7426843
+134,Hypermarket,Ajman,Hyper/Super,460.6739833
+953,Supermarket,Dubai,Hyper/Super,162.5539041
+432,Hypermarket,Ajman,Hyper/Super,907.5816425
+415,Supermarket,Fujairah,Hyper/Super,532.9983792
+968,Pharmacy,Abu Dhabi,Pharmacies,548.6474437
+755,large Grocery,Abu Dhabi,Grocery,262.7738883
+413,Small Grocery,Abu Dhabi,Grocery,986.2161247
+383,Hypermarket,Dubai,Hyper/Super,425.7366393
+737,large Grocery,Ras Al Khaimah,Grocery,486.0814502
+478,Convenience Store,Ras Al Khaimah,Mini/Self,799.7271395
+200,Hypermarket,Dubai,Hyper/Super,229.47034
+391,large Grocery,Ras Al Khaimah,Grocery,521.7256022
+263,Hypermarket,Abu Dhabi,Hyper/Super,665.1913784
+492,Hypermarket,Fujairah,Hyper/Super,759.7241365
+393,Medium Grocery,Ras Al Khaimah,Grocery,727.6259286
+672,large Grocery,Ajman,Grocery,573.9160254
+660,Medium Grocery,Abu Dhabi,Grocery,208.7902845
+443,Small Grocery,Ajman,Grocery,294.7072477
+757,Convenience Store,Sharjah,Mini/Self,484.255308
+145,Hypermarket,Fujairah,Hyper/Super,507.5625009
+525,Pharmacy,Dubai,Pharmacies,125.2853918
+566,Small Grocery,Umm Al Quwain,Grocery,567.4487243
+768,large Grocery,Ras Al Khaimah,Grocery,630.9207565
+760,large Grocery,Dubai,Grocery,560.9922564
+997,Medium Grocery,Ras Al Khaimah,Grocery,641.9963871
+838,large Grocery,Sharjah,Grocery,803.2238752
+679,Small Grocery,Dubai,Grocery,491.6940728
+665,Small Grocery,Ras Al Khaimah,Grocery,327.9959099
+829,Convenience Store,Dubai,Mini/Self,783.4614321
+281,Hypermarket,Dubai,Hyper/Super,479.8375229
+203,Pharmacy,Ras Al Khaimah,Pharmacies,818.2384438
+594,Pharmacy,Ras Al Khaimah,Pharmacies,772.3683657
+318,Pharmacy,Sharjah,Pharmacies,754.9285668
+190,Supermarket,Sharjah,Hyper/Super,182.6849567
+165,Restaurant,Abu Dhabi,Horeca,210.1403306
+825,Pharmacy,Ras Al Khaimah,Pharmacies,815.1179138
+415,Convenience Store,Dubai,Mini/Self,792.3420556
+318,Restaurant,Ajman,Horeca,342.0347625
+842,Supermarket,Ras Al Khaimah,Hyper/Super,191.7224242
+450,large Grocery,Ras Al Khaimah,Grocery,598.3247739
+800,Small Grocery,Ajman,Grocery,561.7907255
+100,Restaurant,Fujairah,Horeca,762.3040031
+166,Supermarket,Fujairah,Hyper/Super,457.0425885
+957,Supermarket,Umm Al Quwain,Hyper/Super,485.1401223
+559,Small Grocery,Ajman,Grocery,845.5119313
+996,Supermarket,Umm Al Quwain,Hyper/Super,563.7842214
+779,Convenience Store,Fujairah,Mini/Self,990.8097279
+300,large Grocery,Sharjah,Grocery,301.5893658
+124,Pharmacy,Fujairah,Pharmacies,208.0046189
+621,Supermarket,Ras Al Khaimah,Hyper/Super,916.7376377
+759,large Grocery,Sharjah,Grocery,297.9538251
+678,Convenience Store,Ras Al Khaimah,Mini/Self,966.2773503
+533,Pharmacy,Sharjah,Pharmacies,609.3169164
+217,Medium Grocery,Ajman,Grocery,476.9060138
+764,Restaurant,Ras Al Khaimah,Horeca,520.5831153
+448,large Grocery,Fujairah,Grocery,131.1862475
+165,large Grocery,Ajman,Grocery,496.0542711
+795,Small Grocery,Umm Al Quwain,Grocery,345.195864
+467,Medium Grocery,Dubai,Grocery,364.6231586
+889,Hypermarket,Fujairah,Hyper/Super,713.2339238
+767,Pharmacy,Ajman,Pharmacies,463.0314545
+405,Medium Grocery,Dubai,Grocery,104.5638507
+655,Medium Grocery,Dubai,Grocery,267.9003621
+755,Pharmacy,Ras Al Khaimah,Pharmacies,622.7319087
+251,Convenience Store,Sharjah,Mini/Self,639.3707448
+275,Hypermarket,Umm Al Quwain,Hyper/Super,409.683084
+966,Medium Grocery,Fujairah,Grocery,882.8666993
+554,Hypermarket,Ajman,Hyper/Super,314.5745165
+519,Supermarket,Umm Al Quwain,Hyper/Super,711.4633469
+265,Convenience Store,Dubai,Mini/Self,205.057507
+890,large Grocery,Ajman,Grocery,427.0246748
+443,Supermarket,Fujairah,Hyper/Super,809.059101
+744,Supermarket,Dubai,Hyper/Super,246.8270732
+440,Convenience Store,Fujairah,Mini/Self,219.3605284
+137,large Grocery,Ras Al Khaimah,Grocery,581.4471386
+127,Medium Grocery,Abu Dhabi,Grocery,678.3267953
+459,Convenience Store,Sharjah,Mini/Self,161.6818507
+358,Pharmacy,Fujairah,Pharmacies,302.48553
+815,large Grocery,Sharjah,Grocery,650.768691
+662,Supermarket,Ras Al Khaimah,Hyper/Super,868.2175242
+994,Medium Grocery,Sharjah,Grocery,840.6576415
+830,Hypermarket,Dubai,Hyper/Super,178.1561668
+748,Medium Grocery,Sharjah,Grocery,527.5120893
+241,Restaurant,Ajman,Horeca,485.626082
+337,Small Grocery,Umm Al Quwain,Grocery,663.4933637
+382,large Grocery,Dubai,Grocery,684.0201707
+253,Restaurant,Abu Dhabi,Horeca,321.9842067
+525,Medium Grocery,Dubai,Grocery,684.5145343
+991,Convenience Store,Abu Dhabi,Mini/Self,397.1876652
+954,Pharmacy,Fujairah,Pharmacies,272.9945031
+812,Supermarket,Abu Dhabi,Hyper/Super,732.4193864
+335,Pharmacy,Fujairah,Pharmacies,747.4502986
+635,Pharmacy,Sharjah,Pharmacies,706.5057762
+955,Pharmacy,Sharjah,Pharmacies,815.4518103
+896,Hypermarket,Ajman,Hyper/Super,155.6804478
+116,Supermarket,Fujairah,Hyper/Super,589.0867601
+598,Small Grocery,Dubai,Grocery,702.3886776
+142,Convenience Store,Ras Al Khaimah,Mini/Self,762.709998
+674,Small Grocery,Umm Al Quwain,Grocery,195.9757464
+716,Supermarket,Ajman,Hyper/Super,511.4738037
+454,Small Grocery,Sharjah,Grocery,284.4168512
+168,Small Grocery,Abu Dhabi,Grocery,793.3133126
+463,Supermarket,Fujairah,Hyper/Super,311.1289368
+537,Small Grocery,Ajman,Grocery,884.8709222
+958,Supermarket,Abu Dhabi,Hyper/Super,656.0355144
+485,Supermarket,Ajman,Hyper/Super,377.2532139
+530,Restaurant,Fujairah,Horeca,323.228065
+709,Restaurant,Abu Dhabi,Horeca,794.9202854
+703,Restaurant,Abu Dhabi,Horeca,956.0190707
+768,Restaurant,Dubai,Horeca,766.3908534
+887,Medium Grocery,Ras Al Khaimah,Grocery,335.9601695
+882,Restaurant,Ajman,Horeca,604.3591617
+242,Hypermarket,Ajman,Hyper/Super,731.5482049
+316,Restaurant,Umm Al Quwain,Horeca,342.9560952
+877,Hypermarket,Abu Dhabi,Hyper/Super,344.0023055
+102,Hypermarket,Sharjah,Hyper/Super,946.6246539
+375,Convenience Store,Fujairah,Mini/Self,246.9110766
+878,large Grocery,Sharjah,Grocery,812.0934183
+540,Supermarket,Ajman,Hyper/Super,375.5555638
+644,large Grocery,Abu Dhabi,Grocery,675.5449131
+666,Medium Grocery,Abu Dhabi,Grocery,568.350991
+892,Hypermarket,Fujairah,Hyper/Super,239.6818504
+618,Hypermarket,Abu Dhabi,Hyper/Super,280.3411593
+805,Small Grocery,Umm Al Quwain,Grocery,530.0933496
+740,Medium Grocery,Sharjah,Grocery,932.8337117
+336,Medium Grocery,Fujairah,Grocery,977.2265925
+832,Medium Grocery,Fujairah,Grocery,393.9406272
+559,Convenience Store,Ajman,Mini/Self,217.0105888
+362,Convenience Store,Sharjah,Mini/Self,315.2853564
+112,Pharmacy,Ras Al Khaimah,Pharmacies,593.3043624
+595,large Grocery,Fujairah,Grocery,178.4133081
+272,Medium Grocery,Dubai,Grocery,576.2775684
+544,Medium Grocery,Sharjah,Grocery,999.9483907
+920,Restaurant,Fujairah,Horeca,466.5281096
+810,large Grocery,Sharjah,Grocery,136.6611308
+295,Convenience Store,Dubai,Mini/Self,633.9277375
+380,Medium Grocery,Umm Al Quwain,Grocery,266.063999
+216,large Grocery,Fujairah,Grocery,656.5824696
+933,Convenience Store,Abu Dhabi,Mini/Self,453.868398
+170,Convenience Store,Fujairah,Mini/Self,965.1664195
+904,Pharmacy,Sharjah,Pharmacies,891.2267031
+846,Medium Grocery,Fujairah,Grocery,590.011349
+665,large Grocery,Fujairah,Grocery,562.747406
+513,Supermarket,Ajman,Hyper/Super,483.6003755
+282,Restaurant,Sharjah,Horeca,817.3780833
+131,Supermarket,Umm Al Quwain,Hyper/Super,657.0681139
+681,Supermarket,Ajman,Hyper/Super,751.3867696
+605,Convenience Store,Fujairah,Mini/Self,210.3901145
+278,Medium Grocery,Ajman,Grocery,212.5433512
+467,Small Grocery,Abu Dhabi,Grocery,680.9231994
+339,Pharmacy,Fujairah,Pharmacies,830.1423633
+674,large Grocery,Umm Al Quwain,Grocery,408.2854687
+877,large Grocery,Dubai,Grocery,704.2933247
+225,Supermarket,Fujairah,Hyper/Super,452.6170266
+362,Hypermarket,Ras Al Khaimah,Hyper/Super,153.3686615
+786,Small Grocery,Fujairah,Grocery,284.3998139
+270,Restaurant,Fujairah,Horeca,824.7959373
+487,Small Grocery,Sharjah,Grocery,999.0485597
+209,Small Grocery,Dubai,Grocery,451.1224547
+105,Small Grocery,Ajman,Grocery,835.8594353
+105,Restaurant,Ras Al Khaimah,Horeca,490.4852206
+822,Restaurant,Sharjah,Horeca,643.8227875
+111,large Grocery,Umm Al Quwain,Grocery,559.5686438
+282,Pharmacy,Ajman,Pharmacies,255.9695159
+881,large Grocery,Ajman,Grocery,588.8299919
+435,Restaurant,Abu Dhabi,Horeca,971.1530969
+724,Convenience Store,Sharjah,Mini/Self,906.2947911
+809,Convenience Store,Fujairah,Mini/Self,125.042457
+428,Medium Grocery,Ras Al Khaimah,Grocery,674.8645094
+758,large Grocery,Umm Al Quwain,Grocery,798.7975464
+374,large Grocery,Ajman,Grocery,473.5447416
+314,Restaurant,Sharjah,Horeca,792.5523898
+106,Convenience Store,Ajman,Mini/Self,207.6919958
+342,Medium Grocery,Dubai,Grocery,384.9922549
+579,Small Grocery,Ajman,Grocery,863.2177837
+765,Supermarket,Ras Al Khaimah,Hyper/Super,772.5594
+293,Restaurant,Ajman,Horeca,567.0266855
+309,Supermarket,Dubai,Hyper/Super,600.6740906
+321,Medium Grocery,Umm Al Quwain,Grocery,694.4732185
+943,Hypermarket,Sharjah,Hyper/Super,330.9790427
+545,Supermarket,Sharjah,Hyper/Super,661.0404963
+832,Pharmacy,Abu Dhabi,Pharmacies,289.8829733
+885,large Grocery,Umm Al Quwain,Grocery,636.3068384
+924,Medium Grocery,Abu Dhabi,Grocery,456.4122524
+718,Medium Grocery,Umm Al Quwain,Grocery,770.6915601
+115,Pharmacy,Ras Al Khaimah,Pharmacies,683.708928
+238,Medium Grocery,Umm Al Quwain,Grocery,608.1633419
+382,Pharmacy,Sharjah,Pharmacies,919.399354
+344,Medium Grocery,Sharjah,Grocery,373.1712248
+207,Hypermarket,Dubai,Hyper/Super,517.1823967
+912,Hypermarket,Abu Dhabi,Hyper/Super,113.5509615
+288,Restaurant,Fujairah,Horeca,692.9573832
+345,Restaurant,Fujairah,Horeca,862.2400083
+621,Convenience Store,Dubai,Mini/Self,400.7884097
+392,Pharmacy,Ras Al Khaimah,Pharmacies,394.6145213
+187,Hypermarket,Dubai,Hyper/Super,301.5093643
+136,Hypermarket,Fujairah,Hyper/Super,414.3194711
+227,Pharmacy,Umm Al Quwain,Pharmacies,904.8746388
+637,Medium Grocery,Abu Dhabi,Grocery,594.579402
+196,Supermarket,Dubai,Hyper/Super,449.9665062
+136,Restaurant,Abu Dhabi,Horeca,521.1860501
+130,Convenience Store,Sharjah,Mini/Self,183.9428062
+959,Restaurant,Sharjah,Horeca,695.063544
+143,Convenience Store,Ajman,Mini/Self,688.0926607
+384,Medium Grocery,Dubai,Grocery,413.1651992
+210,Supermarket,Ajman,Hyper/Super,189.3710816
+885,Convenience Store,Ajman,Mini/Self,784.4396845
+320,Pharmacy,Sharjah,Pharmacies,972.8776684
+499,Restaurant,Dubai,Horeca,712.6129834
+350,Medium Grocery,Fujairah,Grocery,313.3417649
+767,large Grocery,Ajman,Grocery,348.1275417
+496,Supermarket,Ras Al Khaimah,Hyper/Super,749.83752
+613,Hypermarket,Sharjah,Hyper/Super,712.51992
+685,Small Grocery,Umm Al Quwain,Grocery,358.9957833
+964,Hypermarket,Abu Dhabi,Hyper/Super,285.262933
+521,large Grocery,Sharjah,Grocery,265.1597308
+809,Small Grocery,Abu Dhabi,Grocery,396.7136617
+660,Convenience Store,Abu Dhabi,Mini/Self,288.3346678
+959,Pharmacy,Fujairah,Pharmacies,428.4546772
+473,Restaurant,Ajman,Horeca,811.1314777
+874,Restaurant,Ajman,Horeca,959.8272813
+743,Supermarket,Dubai,Hyper/Super,965.3603368
+547,Convenience Store,Ras Al Khaimah,Mini/Self,739.9900484
+795,Pharmacy,Ras Al Khaimah,Pharmacies,978.150937
+984,Small Grocery,Fujairah,Grocery,129.4402172
+203,Supermarket,Dubai,Hyper/Super,820.1600267
+289,Small Grocery,Ras Al Khaimah,Grocery,188.0165333
+335,Convenience Store,Umm Al Quwain,Mini/Self,517.317731
+212,Restaurant,Sharjah,Horeca,754.1950105
+890,Hypermarket,Fujairah,Hyper/Super,897.1036091
+961,Pharmacy,Fujairah,Pharmacies,462.0679908
+102,Small Grocery,Fujairah,Grocery,144.9475643
+868,Medium Grocery,Dubai,Grocery,659.7242498
+859,Supermarket,Dubai,Hyper/Super,635.3810958
+536,Pharmacy,Ajman,Pharmacies,300.1986616
+158,large Grocery,Abu Dhabi,Grocery,701.1756211
+253,Pharmacy,Ajman,Pharmacies,823.5217398
+478,Restaurant,Sharjah,Horeca,169.9752231
+692,Medium Grocery,Ajman,Grocery,255.3338227
+460,Hypermarket,Sharjah,Hyper/Super,487.6735867
+143,Pharmacy,Ras Al Khaimah,Pharmacies,587.9488807
+658,Convenience Store,Dubai,Mini/Self,730.5431031
+579,Convenience Store,Fujairah,Mini/Self,978.6917428
+329,Hypermarket,Umm Al Quwain,Hyper/Super,767.4458429
+898,Convenience Store,Fujairah,Mini/Self,995.3757931
+182,Restaurant,Dubai,Horeca,954.4860017
+834,Restaurant,Umm Al Quwain,Horeca,104.9773681
+581,Supermarket,Ras Al Khaimah,Hyper/Super,666.2776693
+908,Supermarket,Sharjah,Hyper/Super,643.7069028
+674,Supermarket,Ras Al Khaimah,Hyper/Super,791.6196332
+728,Convenience Store,Umm Al Quwain,Mini/Self,598.2823351
+981,Small Grocery,Abu Dhabi,Grocery,171.1335581
+809,Hypermarket,Ajman,Hyper/Super,455.50309
+917,Pharmacy,Ras Al Khaimah,Pharmacies,955.9925158
+862,Small Grocery,Ajman,Grocery,542.4312441
+745,Medium Grocery,Dubai,Grocery,584.6230373
+597,Small Grocery,Abu Dhabi,Grocery,675.0667697
+533,Medium Grocery,Sharjah,Grocery,947.5368009
+826,Restaurant,Umm Al Quwain,Horeca,798.1033853
+526,large Grocery,Sharjah,Grocery,170.1066822
+140,Restaurant,Abu Dhabi,Horeca,452.273913
+973,large Grocery,Dubai,Grocery,403.2570244
+135,Restaurant,Fujairah,Horeca,595.2523674
+688,Pharmacy,Fujairah,Pharmacies,885.4304748
+786,Medium Grocery,Sharjah,Grocery,526.381195
+941,Small Grocery,Sharjah,Grocery,843.7368608
+329,Medium Grocery,Abu Dhabi,Grocery,288.3464684
+321,Supermarket,Dubai,Hyper/Super,753.7584817
+135,Pharmacy,Dubai,Pharmacies,457.6995057
+772,large Grocery,Fujairah,Grocery,336.4077097
+447,Restaurant,Ajman,Horeca,307.0251553
+425,Convenience Store,Umm Al Quwain,Mini/Self,399.2063967
+631,Restaurant,Sharjah,Horeca,167.4970076
+138,Restaurant,Fujairah,Horeca,966.0814174
+734,large Grocery,Umm Al Quwain,Grocery,477.1494367
+818,large Grocery,Sharjah,Grocery,321.9068445
+571,Restaurant,Ras Al Khaimah,Horeca,453.5207481
+641,Pharmacy,Dubai,Pharmacies,177.2456262
+482,Convenience Store,Abu Dhabi,Mini/Self,652.3721982
+667,Supermarket,Fujairah,Hyper/Super,381.1124582
+680,large Grocery,Abu Dhabi,Grocery,691.0579911
+659,Medium Grocery,Ras Al Khaimah,Grocery,156.4875381
+920,large Grocery,Sharjah,Grocery,750.5964424
+240,Hypermarket,Dubai,Hyper/Super,531.2417032
+389,Small Grocery,Umm Al Quwain,Grocery,608.451594
+625,Hypermarket,Ras Al Khaimah,Hyper/Super,551.8940006
